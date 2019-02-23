@@ -1,5 +1,6 @@
 # TODO list
 - [x] Bootstrap create react app https://github.com/facebook/create-react-app
+  - [x] Eject create react app
 - [ ] Migrate existing application to react app
 - [ ] Create node.js server (KOA) https://github.com/koajs/koa (example https://github.com/ArturJS/Notes-App/tree/master/api-service)
 - [ ] Add DB to server side (psql)
